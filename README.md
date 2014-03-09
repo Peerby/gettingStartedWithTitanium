@@ -41,8 +41,6 @@ __Simulators__
 	
 - Genymotion: best android simulator
 
-	- installables are in Drive > Development > Titanium > Genymotion > Installers
-
 	- if you need another version: 
 
 		- https://shop.genymotion.com/index.php?controller=order-opc
