@@ -60,7 +60,7 @@ __Titanium package management__
 
 - gitTio: Titanium package manager: http://gitt.io/cli
 
-http://randikastitaniumtutorial.blogspot.nl/2013/04/introduction-to-appcelerator-titanium_10.html
+	- screencast: http://youtu.be/Tgyfo8YHKxk
 
 
 __Editing__
@@ -69,12 +69,8 @@ __Editing__
 
 	- integration with Titanium: http://blog.codypchristian.net/post/45623739019/titanium-3-0-sublime-text-integration
 
-	- 
-	
 __Tutorials__
 
 - Introduction to Alloy with Hello world example: http://www.appcelerator.com/blog/2012/11/gtka-one/
 
 - More details on Alloy: http://docs.appcelerator.com/titanium/latest/#!/guide/Alloy_XML_Markup
-
-- 
