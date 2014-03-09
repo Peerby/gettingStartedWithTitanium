@@ -1,0 +1,13 @@
+".container": {
+	backgroundColor:"white"
+},
+"Slider": {
+	top:50,
+	"width":"80%",
+}
+".sliderLabel":{
+	"top":"100"
+}
+".helloButton": {
+	"top": "150"
+}

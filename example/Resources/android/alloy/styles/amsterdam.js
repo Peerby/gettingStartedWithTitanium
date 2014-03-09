@@ -1,0 +1,1 @@
+module.exports = [{"isApi":true,"priority":1000.0003,"key":"Slider","style":{top:50,width:"80%",}},{"isClass":true,"priority":10000.0002,"key":"container","style":{backgroundColor:"white",}},{"isClass":true,"priority":10000.0004,"key":"sliderLabel","style":{top:"100",}},{"isClass":true,"priority":10000.0005,"key":"helloButton","style":{top:"150",}}];

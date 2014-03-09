@@ -1,0 +1,7 @@
+<Alloy>
+    <Window class="container">
+        <Slider id="slider" min="0" max="100" width="100%" value="50" onChange="updateLabel"/>
+        <Label id="sliderLabel" class="sliderLabel" />
+        <Button id="helloButton" class="helloButton" onClick="hello" title="Say hello!" />
+    </Window>
+</Alloy>

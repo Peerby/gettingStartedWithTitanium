@@ -1,0 +1,12 @@
+<Alloy>
+    <TabGroup>
+        <Tab id="leftTab" title="World">
+            <Window class="container">
+                <Label id="label" onClick="doClick">Hello, World</Label>
+            </Window>
+        </Tab>
+        <Tab id="rightTab" title="Amsterdam">
+            <Require type="view" src="amsterdam" />
+        </Tab>  
+    </TabGroup>
+</Alloy>
