@@ -1,3 +1,13 @@
+How to run the example
+======================
+
+Make sure you have all the dependencies installed: see /README.md
+
+iOS: ti build -p ios
+
+Android: ti build -p android --device-id "Galaxy Note 3 - 4.3 - API 18 - 1080x1920" 
+
+
 Welcome to your Appcelerator Titanium Mobile Project
 
 This is a blank project.  Start by editing your application's app.js to 
