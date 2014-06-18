@@ -40,6 +40,9 @@ __Building__
 
 - build is triggered by: `ti build -p android`
 
+- if your app doesn't build properly for some reason you can throw away `build` and `Resources` and rebuild.
+
+
 __Simulators__
 
 - iOS: comes with XCode
