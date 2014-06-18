@@ -34,6 +34,8 @@ __Building__
 
 	- There are many versions of Android, make sure you install the version one you want to test against. The Titianium Kitchensink app also needs Google APIs so make sure you install those too. I didn't get that to work yet.
 
+- You want at least version 14 of the Android API, which is Android 4.x and higher. Below is 2.3 or lower which we don't support.
+
 - I haven't found any 'Build on save' (like nodemon) plugin yet, so if you find one, please add it here.
 
 __Simulators__
