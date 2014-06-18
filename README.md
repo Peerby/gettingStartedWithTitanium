@@ -10,20 +10,21 @@ __Appcelerator__
 
 The company that makes Titanium and offers B2B services
 
-- Create an account at https://my.appcelerator.com/ You need it to download the Titanium sdk
+- Create an account at https://my.appcelerator.com/ Why? :)
 
 - Titanium: bridge between nativeland and javascript
 
-	- Install: sudo npm install -g titanium
+	- Install: `sudo npm install -g titanium`
 
 	- CLI reference: http://docs.appcelerator.com/titanium/3.0/#!/guide/Titanium_Command-Line_Interface_Reference
 
 - Alloy: Titanium MVC framework
 	
-	- Install: sudo npm install -g alloy
+	- Install: `sudo npm install -g alloy`
 
 	- Background: http://www.appcelerator.com/blog/2012/11/gtka-one/
 
+- Install Titanium SDK: `ti sdk install`
 
 __Building__
 
