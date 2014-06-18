@@ -38,6 +38,8 @@ __Building__
 
 - I haven't found any 'Build on save' (like nodemon) plugin yet, so if you find one, please add it here.
 
+- build is triggered by: `ti build -p android`
+
 __Simulators__
 
 - iOS: comes with XCode
