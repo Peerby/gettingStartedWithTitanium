@@ -47,7 +47,7 @@ __Simulators__
 		- https://shop.genymotion.com/index.php?controller=order-opc
 		
 	- you need VirtualBox: http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html?ssSourceSiteId=otnjp
-	- Enable Genymotion as default Emulator: ti config genymotion.enabled true
+	- Enable Genymotion as default Emulator: `ti config genymotion.enabled true`
 	
 	- Q: how do we run an android build directly in genymotion?
 	
